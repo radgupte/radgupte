@@ -4,7 +4,7 @@ I’m Radhika Gupte, a Masters student majoring in Computer Science and a Gradua
 
 ⚡Programming Languages: Java, Python, Kotlin, JavaScript, TypeScript, HTML, CSS, SQL, C/C++, and R
 
-⚡Database Technologies: MySQL, Firebase, PostgreSQL, MongoDB, and AWS S3
+⚡Database Technologies: MySQL, MongoDB, DynamoDB, Firebase, PostgreSQL, and AWS S3
 
 ⚡Frameworks: Angular, Node.js, Express, Next.js, Jest, Mocha, Spring, Hibernate, Maven, Bootstrap
 
