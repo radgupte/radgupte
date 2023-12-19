@@ -6,7 +6,7 @@ I’m Radhika Gupte, a Masters student majoring in Computer Science and a Gradua
 
 ⚡Database Technologies: MySQL, MongoDB, DynamoDB, Firebase, PostgreSQL, and AWS S3
 
-⚡Frameworks: Angular, Node.js, Express, Next.js, Jest, Mocha, Spring, Hibernate, Maven, Bootstrap
+⚡Frameworks: React, React Native, Angular, Node.js, Express, Next.js, Jest, Mocha, Spring, Hibernate, Maven, Bootstrap
 
 ⚡Additional Skills: Android Studio, AWS, Oracle Cloud Infrastructure, Jira, Docker, Kubernetes, Git, GitHub, Figma, Linux OS, Agile Methodologies
 
