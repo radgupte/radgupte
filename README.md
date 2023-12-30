@@ -14,6 +14,8 @@ I’m Radhika Gupte, a Masters student majoring in Computer Science and a Gradua
 
 💬 Feel free to get in touch with me here on GitHub or send me an email at rgupte11@gmail.com. If you feel like it, you could also contribute to my existing Github projects or give me any suggestions regarding them.
 
+[![Is radgupte available for hire?](http://hireable.me/radgupte)](http://hireable.me/p/radgupte)
+
 <!--
 **radgupte/radgupte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
